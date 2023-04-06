@@ -1,0 +1,35 @@
+body {
+  background-image: url(/images/bill.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: black;
+  color: aquamarine;
+  box-sizing: border-box;
+}
+
+
+h2 {
+  font-size: 72px;
+}
+
+h4 {
+  font-size: 30px;
+}
+p {
+  font-size: 30px;
+  color: aquamarine;
+}
+
+#timer, #time-left{
+  color: red;
+}
+#user-input {
+  color:black;
+}
+#albert {
+  position: fixed;
+  bottom: 150px;
+  right: 150px
+    
+
+}
